@@ -1,7 +1,3 @@
-# Insurance-quote-tool
-A modern Angular web app that calculates insurance quotes based on user input. Includes form validation, mock API interaction, and responsive design using Tailwind CSS.
-
-
 # Insurance Quote Tool
 
 This is a modern Angular web application that allows users to get a mock insurance quote by filling out a dynamic form. It simulates the behavior of a real insurance portal with form validation, quote calculation logic, and API integration using JSON Server.
